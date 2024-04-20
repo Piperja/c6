@@ -2,3 +2,45 @@
 a.active {
     font-weight: bold;
 }
+
+body {
+    background-color: orange;
+}
+
+main {
+    background-color: beige;
+}
+
+h1 {
+    float: left;
+    font-size: 25px;
+    padding-right: 15px;
+}
+
+.nav {
+    list-style-type: none;
+  padding: 23px;
+}
+
+.top {
+    display: inline;
+    border-right: 1px solid black;
+    padding: 5px;
+}
+
+.orange {
+    background-color: orange;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: beige;
+}
+
+dd {
+    padding: 10px;
+}
+
+dl {
+    padding: 5px;
+}
